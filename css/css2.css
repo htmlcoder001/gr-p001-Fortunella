@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/pxiGyp8kv8JHgFVrJJLedHFHGPc.woff) format('woff');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/pxiDyp8kv8JHgFVrJJLmy15lE92JQEk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/pxiEyp8kv8JHgFVrFJPUdVNF.woff) format('woff');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/pxiByp8kv8JHgFVrLCz7V1hvEv-L.woff) format('woff');
+}
